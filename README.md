@@ -11,6 +11,6 @@ ie. Phone wallpaper in desktop wallpaper folder? Move phone wallpaper to phone w
 
 ## Prerequisites
 
-*Windows (These are bat scripts made for this OS.)
+* Windows (These are bat scripts made for this OS.)
 
-*ImageMagick (To run the image scripts.)
+* [ImageMagick](https://www.imagemagick.org/) (To run the image scripts.)
